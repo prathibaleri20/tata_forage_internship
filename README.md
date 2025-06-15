@@ -1,57 +1,59 @@
-# tata_forage_internship
+# 📊 tata data visualisation micro internship by forage
 
-📊 Sales Insights Dashboard (Excluding UK)
-This repository contains Power BI dashboards and analysis to help stakeholders (CMO and CEO) make informed decisions based on revenue, quantity sold, customer value, and global expansion opportunities — all excluding the United Kingdom as per stakeholder requirements.
+Welcome to the repository for the **Sales Insights Dashboard**, built as part of the **Tata Data Analytics Virtual Internship on Forage**. This project presents powerful business insights using **Power BI** to support decision-making for C-level stakeholders — with all data **excluding the United Kingdom** as per stakeholder request.
 
-📁 Features
-✅ Top 10 Countries by Revenue & Quantity (Excluding UK)
-Visual comparison of the countries generating the highest revenue and quantity sold.
+---
 
-✅ Top 10 Customers by Revenue
-Horizontal bar chart showing highest revenue-generating customers in descending order.
+## ✅ Features
 
-✅ Global Expansion Opportunities (Excluding UK)
-Geo-map highlighting potential countries for expansion based on high product demand.
+- **Top 10 Countries by Revenue & Quantity (Excluding UK)**  
+  ➤ Bar visuals to identify top-performing markets by revenue and quantity sold.
 
-📌 Insights & Implications
-📍 Top 10 Countries by Revenue & Quantity
-Netherlands is the strongest performer in both metrics.
+- **Top 10 Customers by Revenue**  
+  ➤ Horizontal bar chart showing key customers ranked by total revenue contribution.
 
-Ireland (EIRE) delivers high revenue per unit sold.
+- **Global Expansion Opportunities (Excluding UK)**  
+  ➤ Geo-map visualization that highlights promising countries for international growth.
 
-Germany and France are reliable mid-tier markets.
+---
 
-Australia shows strong demand despite distance.
+## 📌 Insights & Implications
 
-Belgium, Sweden, Japan have relatively low sales volume and value.
+### 🌍 Top 10 Countries by Revenue & Quantity
+- **Netherlands** leads both in revenue and quantity sold.
+- **Ireland (EIRE)** shows high profitability per unit.
+- **Germany** and **France** act as reliable mid-tier performers.
+- **Australia** exhibits strong sales despite geographical distance.
+- **Belgium, Sweden, Japan** contribute lower sales volumes and revenue.
 
-📍 Top 10 Customers by Revenue
-Few customers (top 3) contribute a large share of total revenue.
+### 👥 Top 10 Customers by Revenue
+- A few customers (especially the **top 3**) drive a significant portion of revenue.
+- **Customer ID 14646** alone contributes nearly **£279.5K**.
+- Lower-ranked customers still bring in **~£60K individually**, showing long-tail potential.
+- Highlights opportunity for **customer loyalty programs** and **personalized engagement**.
+- Indicates **revenue dependency risk** on top customers — crucial for churn management.
 
-Customer 14646 alone contributes nearly 279.5K in revenue.
+### 🌐 Global Expansion Opportunities (Map View)
+- **Western Europe** (Netherlands, Germany) shows saturation yet remains lucrative.
+- **Australia** emerges as a prime target for expansion.
+- **Asia-Pacific markets** (Japan, Singapore) show moderate traction.
+- **North America** could be tapped with a focused approach.
+- Geo-map aids in **identifying untapped or niche markets** for testing campaigns.
 
-Long-tail customers (bottom 5) still generate ~60K individually.
+---
 
-Ideal for targeted loyalty programs and personalized marketing.
+## 🛠️ Tools & Technologies
 
-Reveals customer dependency risk—important for churn prevention.
+- **Power BI** — Dashboard creation and data storytelling  
+- **Microsoft Bing Maps** — Geographic visualization  
+- **DAX / Power Query** — Data cleaning and transformation
 
-📍 Expansion Opportunities (Map View)
-Western Europe (especially Netherlands and Germany) is highly saturated with opportunity.
+---
 
-Australia emerges as a top candidate for global expansion.
+## 🙏 Acknowledgments
 
-Asia-Pacific markets like Japan and Singapore show modest demand.
+I would like to sincerely thank **Tata** and **Forage** for this valuable virtual internship opportunity. This experience helped me apply real-world business intelligence tools and deepen my understanding of data-driven decision-making in a global enterprise setting.
 
-North America indicates potential with focused strategy.
+---
 
-Visual helps identify niche or underpenetrated countries for testing.
 
-🛠️ Tools Used
-Power BI
-
-Microsoft Bing Maps (for geo-visualization)
-
-DAX/Power Query (for data manipulation)
-
-I would like to thank forage 
